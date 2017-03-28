@@ -1,0 +1,5 @@
+Android IO Event Record and Replay
+
+adb getevent实现
+https://github.com/android/platform_system_core/blob/05009d93368de809a19fd3003e7af0d836ca7611/toolbox/getevent.c
+
