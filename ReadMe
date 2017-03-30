@@ -10,6 +10,18 @@ https://github.com/lorenzogomez/RERAN
 
 1. 用adb getevent做client
 
+input event
+type code value
+http://blog.sina.com.cn/s/blog_602f87700101dno6.html
 
-2. 自己实现client
+Key code是用的linux key code:
+https://source.android.com/devices/input/keyboard-devices.html
 
+
+Google Mirror
+http://coderschool.cn/1853.html
+
+
+2. liunx input events
+
+https://www.kernel.org/doc/Documentation/input/event-codes.txt
